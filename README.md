@@ -1,4 +1,4 @@
-# Your Teach LA Project Here!
+# LSTM Learning Lab, an ACM.AI Collaboration!
 
 ![Production Build](https://github.com/uclaacm/teach-la-react-starter-barebones/workflows/Production%20Build/badge.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -20,7 +20,9 @@ What's this? This is a template repository that sets up a few minor systems for 
 
 ## Overview
 
-... explain what your project is here! What technology you used, who made it, and what it was for!
+This project is aimed at UCLA students currently taking the ACM.AI course. 
+It will give students a more intuitive understanding of Long Short Term Memory (LSTM) models used in machine learning.
+It also touches on the reasons for choosing this model over others, in addition to some of it's shortcomings.
 
 ## Things You Should Do (and then delete this section)
 
