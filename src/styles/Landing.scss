@@ -1,4 +1,45 @@
 .landing-wrapper {
-  align-items: center;
   display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.landing-title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin: 1rem;
+}
+
+.landing-lstm {
+  width: 40%;
+  height: auto;
+}
+
+.landing-text {
+  width: 40%;
+  height: auto;
+  padding: 1%;
+  margin: 1%;
+  background-color: #fff;
+  border-radius: 15px;
+
+}
+
+.landing-button {
+  width: 20%;
+  height: auto;
+  padding: 0.5%;
+  margin: 1%;
+  border-radius: 15px;
+  cursor: pointer;
+  font-size: 1.5rem;
+  text-decoration: none;
+  color: #000;
+  background-color: #fff;
+  transition: all 0.2s ease-in-out;
+}
+
+.landing-button:hover {
+  background-color: #28b2ff;
+  color: #fff;
 }
